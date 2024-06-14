@@ -18,9 +18,13 @@ Ayunni Project Management provides architectural services using Building Informa
 
 ## Mission <a name="mission"></a>
 
+### Our Mission
+
 Our mission is to elevate project management to an art of precision, guiding organizations towards their aspirations through meticulous planning, adept execution, and unwavering commitment to excellence.
 
 ## Vision <a name="vision"></a>
+
+### Our Vision
 
 **"Empowering Transformation Through Seamless Project Excellence"**
 
@@ -28,27 +32,29 @@ Our vision is to be a dynamic force in the realm of project management, driving 
 
 ## Services <a name="services"></a>
 
-### Project Management
+### Services Offered
+
+#### Project Management
 
 Efficiently managing your projects from inception to completion, ensuring timely delivery and budget adherence.
 
-### Space / Layout Planning
+#### Space / Layout Planning
 
 Optimize your space with our expert layout planning, tailored to enhance functionality and aesthetics.
 
-### Architectural Design
+#### Architectural Design
 
 Innovative architectural design that blends creativity with practicality to bring your vision to life.
 
-### Interior Design
+#### Interior Design
 
 Transforming interiors with our bespoke design services to reflect your unique style and preferences.
 
-### Graphics Design
+#### Graphics Design
 
 Captivating graphic designs that effectively communicate your brand's message and identity.
 
-### 3D Modelling
+#### 3D Modelling
 
 Detailed 3D modelling services to visualize and plan your projects with precision and clarity.
 
