@@ -1,8 +1,8 @@
-# Ayunni Project Management
+#Ayunni Project Management
 
 Ayunni Project Management is a website designed to showcase architectural services using Building Information Modeling (BIM) software. This template integrates a range of sections to highlight our company's profile, services, mission, and vision.
 
-## Table of Contents
+##Table of Contents
 
 - [About Us](#about-us)
 - [Mission](#mission)
@@ -12,51 +12,51 @@ Ayunni Project Management is a website designed to showcase architectural servic
 - [Credits](#credits)
 - [License](#license)
 
-## About Us <a name="about-us"></a>
+##About Us <a name="about-us"></a>
 
 Ayunni Project Management provides architectural services using Building Information Modeling (BIM) software as a delivery mechanism from schematic designs to construction stages. We focus on the design management of various building types.
 
-## Mission <a name="mission"></a>
+##Mission <a name="mission"></a>
 
 Our mission is to elevate project management to an art of precision, guiding organizations towards their aspirations through meticulous planning, adept execution, and unwavering commitment to excellence.
 
-## Vision <a name="vision"></a>
+##Vision <a name="vision"></a>
 
 **"Empowering Transformation Through Seamless Project Excellence"**
 
 Our vision is to be a dynamic force in the realm of project management, driving transformation through the delivery of seamless project excellence.
 
-## Services <a name="services"></a>
+##Services <a name="services"></a>
 
-### Project Management
+###Project Management
 
 Efficiently managing your projects from inception to completion, ensuring timely delivery and budget adherence.
 
-### Space / Layout Planning
+###Space / Layout Planning
 
 Optimize your space with our expert layout planning, tailored to enhance functionality and aesthetics.
 
-### Architectural Design
+###Architectural Design
 
 Innovative architectural design that blends creativity with practicality to bring your vision to life.
 
-### Interior Design
+###Interior Design
 
 Transforming interiors with our bespoke design services to reflect your unique style and preferences.
 
-### Graphics Design
+###Graphics Design
 
 Captivating graphic designs that effectively communicate your brand's message and identity.
 
-### 3D Modelling
+###3D Modelling
 
 Detailed 3D modelling services to visualize and plan your projects with precision and clarity.
 
-## Getting Started <a name="getting-started"></a>
+##Getting Started <a name="getting-started"></a>
 
 To view the full website, simply open the `index.html` file in your browser. You can explore each section by clicking on the navigation links provided in the header.
 
-## Credits <a name="credits"></a>
+##Credits <a name="credits"></a>
 
 - **Template**: Presento Bootstrap Corporate Template by BootstrapMade.com
   - Updated: Jan 29 2024 with Bootstrap v5.3.2
@@ -69,6 +69,6 @@ To view the full website, simply open the `index.html` file in your browser. You
 
 - **Vendor CSS Files**: AOS, Bootstrap, Bootstrap Icons, Boxicons, Glightbox, Remixicon, Swiper
 
-## License <a name="license"></a>
+##License <a name="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
